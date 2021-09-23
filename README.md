@@ -1,5 +1,9 @@
 ### Github Finder - React
 
+![alt text](https://github.com/junjun107/github-finder/blob/main/images/finder1.png)
+![alt text](https://github.com/junjun107/github-finder/blob/main/images/finder2.png)
+![alt text](https://github.com/junjun107/github-finder/blob/main/images/finder3.png)
+
 This github user-search project created for Brad Traversy's React Front to Back course on Udemy.
 
 ## What is this app
